@@ -1,4 +1,4 @@
-module github.com/vanyongqi/clickhouse-gomock
+module github.com/vanyongqi/clickhouse-mock
 
 go 1.21
 
