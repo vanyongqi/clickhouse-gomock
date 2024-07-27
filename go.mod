@@ -1,6 +1,6 @@
-module clickhouse-gomock
+module github.com/vanyongqi/clickhouse-gomock
 
-go 1.22
+go 1.18
 
 require (
 	github.com/ClickHouse/clickhouse-go/v2 v2.26.0
