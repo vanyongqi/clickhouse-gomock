@@ -1,4 +1,4 @@
-package clickhouse_gomock
+package chmock
 
 import (
 	"github.com/ClickHouse/clickhouse-go/v2/lib/column"

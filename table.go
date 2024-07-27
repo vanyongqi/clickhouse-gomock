@@ -1,4 +1,4 @@
-package clickhouse_gomock
+package chmock
 
 // Licensed to ClickHouse, Inc. under one or more contributor
 // license agreements. See the NOTICE file distributed with

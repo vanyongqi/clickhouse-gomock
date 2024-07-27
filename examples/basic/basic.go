@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	cmock "github.com/vanyongqi/clickhouse-gomock"
+	cmock "github.com/vanyongqi/clickhouse-mock"
 )
 
 func main() {

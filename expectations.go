@@ -1,4 +1,4 @@
-package clickhouse_gomock
+package chmock
 
 import (
 	"fmt"
